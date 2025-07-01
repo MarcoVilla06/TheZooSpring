@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: zoo
+
+theZoo:
+  name: "El fabuloso Zoologico de Marco el FAFI"
